@@ -28,13 +28,13 @@ Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.20
 
 ## Stand bei Apple
 - Noch keine App für dieses Projekt angelegt.
-- Offen: Läuft das Projekt über dasselbe Entwicklerkonto wie „Rechenfreunde“? Welcher Händlerstatus und welche Adresse sind dort hinterlegt?
+- Entwicklerkonto: dasselbe wie bei „Rechenfreunde“, als Händler mit Christians Privatadresse (19.11.2026). Die Jahresgebühr ist damit schon bezahlt.
+- Hinweis: Apple zeigt die Händlerdaten (Adresse, Telefon, E-Mail) in der EU auf jeder Produktseite an, nach Art. 30/31 DSA. Wer die Privatadresse nicht zeigen will, kann vor App 1 auf eine ladungsfähige Geschäftsadresse wechseln. Entscheidung offen, nicht dringend.
 
 ## Nächste Schritte
 1. **Christian:** Store-Check mit den Suchbegriffen aus der Nischenrecherche, Nische wählen.
 2. **Claude:** nach der Nischenwahl die Spezifikation und das Xcode-Projekt für App 1 anlegen (SwiftUI, Tests).
-3. **Christian:** Entwicklerkonto klären (das von „Rechenfreunde“ nutzen? Adresse beim Händlerstatus?).
-4. **Christian:** Steuerberater-Erstgespräch buchen.
+3. **Christian:** Steuerberater-Erstgespräch buchen.
 
 ## Zurückgestellt
 - Nebentätigkeit: Christian klärt das selbst (19.11.2026). Bis dahin gilt: kein Gewerbe anmelden, nichts im App Store veröffentlichen, keine Einnahmen. Ob schon die private Entwicklung ohne Einnahmen unter die Klausel fällt, ist **nicht belegt** und hängt vom Wortlaut ab.
