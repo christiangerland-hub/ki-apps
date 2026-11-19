@@ -34,6 +34,7 @@ Die Spalte „Spaß“ ist von Claude geschätzt und muss von Christian noch kor
 | 6. Pendel-Coach | 1 | 1 | 3 | 5 |
 | 7. Ideenfinder für App-Entwickler | nicht bewertet | | | |
 | 8. OEM-Forecast-/Materialrisiko-Plattform | nicht bewertet (gewählt) | | | |
+| 9. Lern-App Grundschule (Klasse 1–4) | 2 | 3 | 5 (geschätzt) | 10 |
 
 ## 4. Die Ideen
 
@@ -81,6 +82,14 @@ Die Spalte „Spaß“ ist von Claude geschätzt und muss von Christian noch kor
 ### Idee 7: Ideenfinder für App-Entwickler („Schaufeln für Goldgräber“)
 - Kern: App-Store-Daten auswerten und Chancen zeigen.
 - Risiken: dicht besetzt (You Could Ship This https://youcouldshipthis.com/, BigIdeasDB, Unstar, Insightly, Glotier); Zielgruppe zahlt wenig. Mögliche Lücke: deutschsprachiger Markt. Niedrige Priorität.
+
+### Idee 9 (neu, 19.11.2026): Lern-App für die Grundschule (Klasse 1–4)
+- Motiv: „die Welt ein wenig besser machen“. Christian hat mit „Rechenfreunde“ schon eine Kinder-App eingereicht.
+- **Zahlung 2:** Der Platzhirsch [ANTON](https://apps.apple.com/DE/app/id1180554775) ist laut Store-Eintrag kostenlos und werbefrei (4,8 Sterne, ca. 303.000 Bewertungen im deutschen Store). Eltern zahlen wenig für Lern-Apps, Schulen kaufen über Lizenzen und Ausschreibungen.
+- **Vorsprung 3:** Erfahrung aus „Rechenfreunde“ (Leitfaden, Kinder-Kategorie, App-Prüfung). Möglicher echter Unterschied: **Lesen lernen mit Vorlesen**, bei dem die Spracherkennung auf dem Gerät das laute Lesen prüft. Kinderstimmen verlassen das Gerät nie. Ob Apples Erkennung Kinderstimmen zuverlässig versteht, ist **nicht belegt**.
+- **Spaß 5:** geschätzt (Sinnstiftung), Christian korrigiert.
+- Rahmen: Kinder-Kategorie mit Guidelines 1.3 und 5.1.4, Eltern-Sperre vor Käufen und externen Links ([Apple Kids](https://developer.apple.com/kids/)). Die Einstufung wirkt dauerhaft nach. Ein Aufnahme-Feature bei Kindern verlangt höchste Sorgfalt (Datenschutz, Art. 8 DSGVO).
+- Empfehlung: nicht als neues Projekt, sondern als **Erweiterung von „Rechenfreunde“** prüfen (gleiche Zielgruppe, vorhandene Basis), z. B. ein Lese-Modul.
 
 ### Verworfen bzw. kritisch
 - **Abrechnungs-App für Zahnärzte:** Markt voll (Sonia https://sonia.so/zahnarzt, Doctos, maika, KZVB-Abrechnungsmappe mit KI-Assistent). Lücke liegt beim Erfassen vor der Software (z. B. tomedo.Dental hat eine Abrechnungsfehlerliste: https://dental.tomedo.de/funktionen/abrechnung/). Höchstens als Service mit Abrechnungsexpertin.
