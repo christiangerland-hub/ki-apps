@@ -22,6 +22,10 @@ Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.20
 | Zeitbedarf | Testen und Freigaben | Kundengespräche (5–8), Vertrieb, Support während der Arbeitszeit der Kunden |
 | Lernziel iOS | ja | eher Web |
 
+## Entwicklungsumgebung
+- Mac: Xcode 27.2 (Angabe von Christian, 19.11.2026). Damit ist die Voraussetzung aus dem Leitfaden erfüllt (Xcode 16+, synchronisierte Ordnergruppen).
+- Remote Control: Der Ordner „Claude“ auf Mac.fritz.box wird Cloud-Sitzungen nicht angeboten (Grund unbekannt). Bauen und Testen deshalb auf dem Mac.
+
 ## Stand bei Apple
 - Noch keine App für dieses Projekt angelegt.
 - Offen: Läuft das Projekt über dasselbe Entwicklerkonto wie „Rechenfreunde“? Welcher Händlerstatus und welche Adresse sind dort hinterlegt?
@@ -34,7 +38,6 @@ Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.20
 5. **Christian:** Steuerberater-Erstgespräch buchen.
 
 ## Offene Punkte
-- Mac und Xcode: Version prüfen (Leitfaden setzt Xcode 16+ voraus).
 - Gewerbe: Erst nach der Zustimmung von ARRI anmelden.
 - Website: Kann die vorhandene Hosting-Lösung (Hostinger) mitgenutzt werden?
 
