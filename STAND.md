@@ -9,8 +9,10 @@ Zuletzt aktualisiert: 19.11.2026
 - Nischenrecherche App 1: `docs/recherche/nischen-app-1.md` (Empfehlung: Offline-Protokoll-App)
 - Ideenliste mit Bewertungsfilter und Idee 8: `docs/ideen/uebergabe-app-und-geschaeftsideen.md`, Begleitdokument im [Claude Doc „App- und Geschäftsideen“](https://claude.ai/artifact/D4C315Tm8VynTba1EqnPoa)
 
-## Konflikt, der zuerst geklärt werden muss
-Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.2026 **Idee 8 (OEM-Forecast- und Materialrisiko-Plattform, B2B-Web-Software)** gewählt. Am 19.11.2026 wurde **Plan C (kleine iPhone-Apps)** freigegeben. Beides parallel widerspricht der eigenen Regel „eine Idee für 8 Wochen“. Entscheidung durch Christian offen.
+## Fokus (entschieden 19.11.2026)
+**Plan C hat Vorrang.** Idee 8 ruht, bis ARRI der Nebentätigkeit zugestimmt hat. Danach prüfen 5–8 Bedarfsgespräche die Idee, noch ohne Code. Entscheidungsgrundlage:
+
+Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.2026 **Idee 8 (OEM-Forecast- und Materialrisiko-Plattform, B2B-Web-Software)** gewählt. Am 19.11.2026 wurde **Plan C (kleine iPhone-Apps)** freigegeben. Beides parallel widerspricht der eigenen Regel „eine Idee für 8 Wochen“.
 
 | | Plan C: iPhone-Apps | Idee 8: OEM-Plattform |
 |---|---|---|
@@ -35,7 +37,6 @@ Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.20
 - Mac und Xcode: Version prüfen (Leitfaden setzt Xcode 16+ voraus).
 - Gewerbe: Erst nach der Zustimmung von ARRI anmelden.
 - Website: Kann die vorhandene Hosting-Lösung (Hostinger) mitgenutzt werden?
-- Name der ersten App uneinheitlich: Leitfaden nennt „Rechenfreunde“, Ideen-Übergabe „Lernfreunde“. Welcher stimmt?
 
 ## Nützliche Befehle
 Siehe `docs/leitfaden-ios-app-store.md`, Abschnitt „Befehle“.

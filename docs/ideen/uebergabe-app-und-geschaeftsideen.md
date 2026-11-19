@@ -9,13 +9,15 @@ Begleitdokument mit allen Details, Bewertungstabelle, Stichwortliste und Skript:
 ## 1. Ziel und Ausgangslage
 
 - Christian will eine App bzw. Web-Software bauen, mit der sich Geld verdienen lässt, und dabei iOS- und Web-Entwicklung lernen.
-- Er veröffentlicht gerade seine erste iOS-App „Lernfreunde“.
+- Er veröffentlicht gerade seine erste iOS-App „Rechenfreunde“ (korrigiert am 19.11.2026, vorher „Lernfreunde“).
 - Langfristiger Reiz: eine weitgehend digitale Firma, deren Operatives KI-Agenten übernehmen; Christian überwacht.
 - Problem, das er selbst benennt: „So viele Ideen, dass ich das Gefühl habe, keine guten zu haben.“ Daher: Ideen nur noch sammeln, mit einem festen Filter bewerten, dann eine Idee für einen festen Zeitraum (z. B. 8 Wochen) verfolgen.
 
 ## 2. Entscheidung
 
 **Christian will Idee 8 weiterverfolgen: die OEM-Plattform für Forecast und Materialrisiko bei EMS-Fertigung.** (Entscheidung vom 17.11.2026)
+
+**Update 19.11.2026:** Plan C (iPhone-Apps, `docs/businessplan-c-apps.md`) hat Vorrang. Idee 8 ruht bis zur Zustimmung von ARRI zur Nebentätigkeit, danach nur Bedarfsgespräche ohne Code.
 
 ## 3. Bewertungsfilter
 

@@ -28,7 +28,7 @@ In 12 Monaten 1.000 € Umsatz pro Woche mit kleinen, von Claude gebauten iPhone
 | 19.11.2026 | ~~Expo/React Native mit EAS-Cloud-Build~~ | Ersetzt durch SwiftUI (nächste Zeile) |
 | 19.11.2026 | SwiftUI, iOS 17+, keine externen Abhängigkeiten, StoreKit 2 | Im Projekt „Rechenfreunde“ bewährt, Mac und iPhone vorhanden (`docs/leitfaden-ios-app-store.md`) |
 | 19.11.2026 | Vor dem Start Zustimmung bzw. Anzeige bei ARRI | Arbeitsvertrag enthält Nebentätigkeitsklausel |
-| offen | Plan C oder Idee 8 (OEM-Plattform, gewählt am 17.11.2026)? | Konflikt, siehe `STAND.md` |
+| 19.11.2026 | Plan C hat Vorrang; Idee 8 (OEM-Plattform) ruht bis zur Zustimmung von ARRI, dann nur Bedarfsgespräche ohne Code | Eine Idee zur Zeit; Idee 8 liegt nah an der ARRI-Arbeit und hat höhere Haftung |
 
 ## Ablage
 - `docs/businessplan-c-apps.md`: freigegebener Businessplan
