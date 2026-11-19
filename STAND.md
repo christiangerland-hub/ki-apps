@@ -31,11 +31,13 @@ Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.20
 - Offen: Läuft das Projekt über dasselbe Entwicklerkonto wie „Rechenfreunde“? Welcher Händlerstatus und welche Adresse sind dort hinterlegt?
 
 ## Nächste Schritte
-1. **Christian:** Wortlaut der Nebentätigkeitsklausel prüfen: Reicht eine Anzeige, oder ist eine Zustimmung nötig? Ergebnis kurz im Chat nennen.
-2. **Christian:** passende Fassung aus dem Entwurf anpassen und an ARRI senden. Bis zur Antwort nichts anmelden und nichts veröffentlichen.
-3. **Christian:** Store-Check mit den Suchbegriffen aus der Nischenrecherche, Nische wählen.
-4. **Claude:** nach der Nischenwahl die Spezifikation und das Xcode-Projekt für App 1 anlegen (SwiftUI, Tests).
-5. **Christian:** Steuerberater-Erstgespräch buchen.
+1. **Christian:** Store-Check mit den Suchbegriffen aus der Nischenrecherche, Nische wählen.
+2. **Claude:** nach der Nischenwahl die Spezifikation und das Xcode-Projekt für App 1 anlegen (SwiftUI, Tests).
+3. **Christian:** Entwicklerkonto klären (das von „Rechenfreunde“ nutzen? Adresse beim Händlerstatus?).
+4. **Christian:** Steuerberater-Erstgespräch buchen.
+
+## Zurückgestellt
+- Nebentätigkeit: Christian klärt das selbst (19.11.2026). Bis dahin gilt: kein Gewerbe anmelden, nichts im App Store veröffentlichen, keine Einnahmen. Ob schon die private Entwicklung ohne Einnahmen unter die Klausel fällt, ist **nicht belegt** und hängt vom Wortlaut ab.
 
 ## Offene Punkte
 - Gewerbe: Erst nach der Zustimmung von ARRI anmelden.
