@@ -16,19 +16,28 @@ In 12 Monaten 1.000 € Umsatz pro Woche mit kleinen, von Claude gebauten iPhone
 - Apps laufen lokal: keine Konten, kein Server, keine Analytics-SDKs. Grund: wenig Haftung beim Einstellen, kaum DSGVO-Pflichten
 - Keine Apps mit steuerlichen oder rechtlichen Folgen, keine Gesundheitsdaten, keine Kinder-Apps
 - Jede Arbeit wird ins Repo gepusht, weil die Claude-Arbeitsumgebung nicht dauerhaft ist
+- Arbeitsweise aus dem Leitfaden: nummerierte Schritte mit genauen Menü- und Feldnamen; Dateiarbeit erledigt Claude selbst; nach jeder Unterbrechung offene Schritte komplett neu auflisten; Rückfragen kurz und mit Empfehlung
+- Passwörter, Codes, Kontoanlage, Vertragszustimmungen, Einreichen und Veröffentlichen: nur Christian bzw. nur auf ausdrückliches Ja
+- Claude baut in der Cloud nicht mit Xcode. Code und Tests werden hier geschrieben, Christian baut und testet auf dem Mac
 
 ## Entscheidungen
 | Datum | Entscheidung | Begründung |
 |---|---|---|
 | 19.11.2026 | Plan C (iPhone-Apps) statt Plan A (digitale Vorlagen) und Plan B (Amazon) | Wenig Kapital, kein Lager, geringe Haftung, Claude kann den Code schreiben |
 | 19.11.2026 | Start als Einzelunternehmen | Kein Lager, kein Server, keine eigenen Kundenverträge |
-| 19.11.2026 | Expo/React Native mit EAS-Cloud-Build | Kein Mac nötig |
+| 19.11.2026 | ~~Expo/React Native mit EAS-Cloud-Build~~ | Ersetzt durch SwiftUI (nächste Zeile) |
+| 19.11.2026 | SwiftUI, iOS 17+, keine externen Abhängigkeiten, StoreKit 2 | Im Projekt „Rechenfreunde“ bewährt, Mac und iPhone vorhanden (`docs/leitfaden-ios-app-store.md`) |
+| 19.11.2026 | Vor dem Start Zustimmung bzw. Anzeige bei ARRI | Arbeitsvertrag enthält Nebentätigkeitsklausel |
 
 ## Ablage
 - `docs/businessplan-c-apps.md`: freigegebener Businessplan
 - `docs/alternativen/`: verworfene Pläne A und B zum Vergleich
 - Lebende Fassung des Businessplans: [Claude Doc](https://claude.ai/artifact/6CxTDcxTqZ2UaHCa87SMAY)
-- App-Code: später je App ein Unterordner unter `apps/`
+- `STAND.md`: laufender Zwischenstand (nach jeder Sitzung aktualisieren)
+- `docs/leitfaden-ios-app-store.md`: Erfahrungen und Befehle für Xcode und App Store Connect. **Vor jeder Arbeit an Build, Store-Seite oder Einreichung lesen.**
+- `docs/nebentaetigkeit/`: Entwurf der Nebentätigkeitsanzeige. Arbeitsvertrag und Antwort von ARRI gehören nicht ins Repo
+- `docs/recherche/`: Recherchen
+- App-Code: je App ein Unterordner unter `apps/`
 
 ---
 
