@@ -28,6 +28,7 @@ In 12 Monaten 1.000 € Umsatz pro Woche mit kleinen, von Claude gebauten iPhone
 | 19.11.2026 | ~~Expo/React Native mit EAS-Cloud-Build~~ | Ersetzt durch SwiftUI (nächste Zeile) |
 | 19.11.2026 | SwiftUI, iOS 17+, keine externen Abhängigkeiten, StoreKit 2 | Im Projekt „Rechenfreunde“ bewährt, Mac und iPhone vorhanden (`docs/leitfaden-ios-app-store.md`) |
 | 19.11.2026 | Vor dem Start Zustimmung bzw. Anzeige bei ARRI | Arbeitsvertrag enthält Nebentätigkeitsklausel |
+| offen | Plan C oder Idee 8 (OEM-Plattform, gewählt am 17.11.2026)? | Konflikt, siehe `STAND.md` |
 
 ## Ablage
 - `docs/businessplan-c-apps.md`: freigegebener Businessplan
@@ -37,6 +38,7 @@ In 12 Monaten 1.000 € Umsatz pro Woche mit kleinen, von Claude gebauten iPhone
 - `docs/leitfaden-ios-app-store.md`: Erfahrungen und Befehle für Xcode und App Store Connect. **Vor jeder Arbeit an Build, Store-Seite oder Einreichung lesen.**
 - `docs/nebentaetigkeit/`: Entwurf der Nebentätigkeitsanzeige. Arbeitsvertrag und Antwort von ARRI gehören nicht ins Repo
 - `docs/recherche/`: Recherchen
+- `docs/ideen/`: Ideenliste mit Bewertungsfilter (Zahlt jemand? Vorsprung? Spaß?). Neue Ideen nur dort eintragen und bewerten, nicht vertiefen
 - App-Code: je App ein Unterordner unter `apps/`
 
 ---

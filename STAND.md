@@ -7,6 +7,18 @@ Zuletzt aktualisiert: 19.11.2026
 - Leitfaden aus „Rechenfreunde“: `docs/leitfaden-ios-app-store.md`
 - Entwurf Nebentätigkeitsanzeige: `docs/nebentaetigkeit/anzeige-entwurf.md`
 - Nischenrecherche App 1: `docs/recherche/nischen-app-1.md` (Empfehlung: Offline-Protokoll-App)
+- Ideenliste mit Bewertungsfilter und Idee 8: `docs/ideen/uebergabe-app-und-geschaeftsideen.md`, Begleitdokument im [Claude Doc „App- und Geschäftsideen“](https://claude.ai/artifact/D4C315Tm8VynTba1EqnPoa)
+
+## Konflikt, der zuerst geklärt werden muss
+Laut `docs/ideen/uebergabe-app-und-geschaeftsideen.md` hat Christian am 17.11.2026 **Idee 8 (OEM-Forecast- und Materialrisiko-Plattform, B2B-Web-Software)** gewählt. Am 19.11.2026 wurde **Plan C (kleine iPhone-Apps)** freigegeben. Beides parallel widerspricht der eigenen Regel „eine Idee für 8 Wochen“. Entscheidung durch Christian offen.
+
+| | Plan C: iPhone-Apps | Idee 8: OEM-Plattform |
+|---|---|---|
+| Weg zu 1.000 €/Woche | ca. 1.000 Abonnenten à 4,99 €/Monat (Massenmarkt, schwer planbar) | z. B. ca. 11 Firmenkunden à 400 €/Monat (Annahme, Preis ungeprüft) |
+| Nähe zu ARRI | gering | **hoch**: Idee stammt aus dem ARRI-Einkaufsalltag. Interessenkonflikt, § 69b UrhG, Zustimmung von ARRI unsicher |
+| Haftung beim Einstellen | gering (Apple verkauft) | höher: Kundenverträge, Auftragsverarbeitung (Art. 28 DSGVO), Kundendaten, Verfügbarkeit |
+| Zeitbedarf | Testen und Freigaben | Kundengespräche (5–8), Vertrieb, Support während der Arbeitszeit der Kunden |
+| Lernziel iOS | ja | eher Web |
 
 ## Stand bei Apple
 - Noch keine App für dieses Projekt angelegt.
@@ -22,7 +34,8 @@ Zuletzt aktualisiert: 19.11.2026
 ## Offene Punkte
 - Mac und Xcode: Version prüfen (Leitfaden setzt Xcode 16+ voraus).
 - Gewerbe: Erst nach der Zustimmung von ARRI anmelden.
-- Website: Kann die vorhandene Hosting-Lösung aus „Rechenfreunde“ mitgenutzt werden?
+- Website: Kann die vorhandene Hosting-Lösung (Hostinger) mitgenutzt werden?
+- Name der ersten App uneinheitlich: Leitfaden nennt „Rechenfreunde“, Ideen-Übergabe „Lernfreunde“. Welcher stimmt?
 
 ## Nützliche Befehle
 Siehe `docs/leitfaden-ios-app-store.md`, Abschnitt „Befehle“.
